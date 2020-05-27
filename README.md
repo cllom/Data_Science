@@ -7,5 +7,5 @@ This repository will Data Science notebooks for :
 - Basics of Python
 - Python for Data Science
 - Data Analytics with Python
-- Machine Lean=rning for Data Science
+- Machine Learning for Data Science
 - Deploying Data Science Application
